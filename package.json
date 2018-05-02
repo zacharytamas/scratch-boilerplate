@@ -4,7 +4,7 @@
   "description": "Boilerplate code for scratch projects.",
   "main": "index.js",
   "repository": "https://zacharytamas@github.com/zacharytamas/scratch-boilerplate.git",
-  "author": "Zachary Jones <zachary.tamas.cc>",
+  "author": "Zachary Jones <me@zacharytamas.com>",
   "license": "MIT",
   "private": true,
   "devDependencies": {
